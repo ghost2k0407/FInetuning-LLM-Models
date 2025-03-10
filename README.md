@@ -69,14 +69,6 @@ This project focuses on **finetuning large language models (LLMs)** using **retr
 - **Text-based AI Queries:** Uses `GenerativeModel("gemini-pro")` for text-based responses.  
 - **Embedding Retrieval:** FAISS-based document search for RAG implementation.  
 - **Configuration:** Managed via environment variables for secure API key handling.  
-
-## 5. Deployment
-### **Local Deployment**  
-- Run with `python train.py` to fine-tune the model.  
-- Test using `python inference.py`.  
-
-### **Cloud Deployment**  
-- Deploy on platforms like **Streamlit Sharing, Google Cloud Run, or AWS Lambda**.  
 - Monitor model performance and optimize post-deployment.  
 
 ## 6. Next Steps

@@ -71,7 +71,7 @@ This project focuses on **finetuning large language models (LLMs)** using **retr
 - **Configuration:** Managed via environment variables for secure API key handling.  
 - Monitor model performance and optimize post-deployment.  
 
-## 6. Next Steps
+## 5. Next Steps
 🚀 Improve response formatting with **Markdown rendering**.  
 🚀 Enhance UI components for better **visualization**.  
 🚀 Explore **multi-modal support** (e.g., text + images).  
